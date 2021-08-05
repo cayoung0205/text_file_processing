@@ -10,7 +10,6 @@
 ### 8. 합계구하기(4일)(반복문) format 으로 작업 출력
 
 #### 1
-#file_name="C:\Users\Choi_AY\git-ay\txt_processing\coffeeShopSales.txt",'r',encoding="utf8")
 f=open("coffeeShopSales.txt",'r',encoding="utf8")
 #### 2
 header=f.readline()
